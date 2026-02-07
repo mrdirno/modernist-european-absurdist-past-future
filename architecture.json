@@ -1,0 +1,72 @@
+{
+  "book_id": "modernist-european-absurdist-past-future",
+  "title": "The Curated Void and Its Grammar",
+  "tagline": "In a city of perpetual mist, a man and a woman trade enigmatic objects, navigating the absurd tension between a curated past and an impossible future.",
+  "target_words": 70636,
+  "actual_words": 70636,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Cultivation of Ignorance",
+    "The Weight of Ephemera",
+    "The Architecture of Absence",
+    "Temporal Dislocation"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Wrong Kind of Rain",
+      "words": 6421
+    },
+    {
+      "ch": 2,
+      "title": "A Temporary Truce with Dust",
+      "words": 6421
+    },
+    {
+      "ch": 3,
+      "title": "The Idea of a Sound",
+      "words": 6421
+    },
+    {
+      "ch": 4,
+      "title": "A Curated Void",
+      "words": 6421
+    },
+    {
+      "ch": 5,
+      "title": "The Diagram of a Place",
+      "words": 6421
+    },
+    {
+      "ch": 6,
+      "title": "A Union of Relief and Exhaustion",
+      "words": 6421
+    },
+    {
+      "ch": 7,
+      "title": "A Theory of Rain",
+      "words": 6421
+    },
+    {
+      "ch": 8,
+      "title": "The Selective Erasure",
+      "words": 6421
+    },
+    {
+      "ch": 9,
+      "title": "A Curator of Liminal Grammar",
+      "words": 6421
+    },
+    {
+      "ch": 10,
+      "title": "The Right Kind of Silence",
+      "words": 6421
+    },
+    {
+      "ch": 11,
+      "title": "A Sentence the Building Was Writing",
+      "words": 6421
+    }
+  ]
+}
